@@ -21,6 +21,11 @@ Learn in-demand skills like statistical analysis, Python, regression models, and
 - Qualify for in-demand job titles: senior data analyst, junior data scientist, data science analyst
 ---
 ## 1. Foundations of Data Science
+- [Start the program](https://github.com/jinyongyu/google_advanced_data_analytics_professional_certificate/wiki/1.1.1.Start-the-program)
+- [The impact of data today](https://github.com/jinyongyu/google_advanced_data_analytics_professional_certificate/wiki/1.2.The-impact-of-data-today)
+- [Your career as a data professional](https://github.com/jinyongyu/google_advanced_data_analytics_professional_certificate/wiki/1.3.Your-career-as-a-data-professional)
+- []()
+- []()
 ## 2. Get Started with Python
 ## 3. Go Beyond the Numbers: Translate Data into Insights
 ## 4. The Power of Statistics
